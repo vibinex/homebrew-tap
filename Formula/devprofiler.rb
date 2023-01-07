@@ -1,4 +1,4 @@
-class Tle < Formula
+class Devprofiler < Formula
   desc "CLI for creating dev profiles from repository contributions"
   homepage "https://github.com/Alokit-Innovations/dev-profiler"
   url "https://github.com/Alokit-Innovations/dev-profiler/releases/download/v0.1.0/devprofiler-0.1.0-apple-darwin.tar.gz"
