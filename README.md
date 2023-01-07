@@ -1,2 +1,8 @@
-# homebrew-tap
-brew formula for devprofiler cli
+# Homebrew Tap
+
+## Installation
+
+```
+brew tap Alokit-Innovations/tap
+brew install devprofiler
+```
