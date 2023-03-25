@@ -1,4 +1,4 @@
-# Homebrew Tap
+# Homebrew Tap Devprofiler
 
 ## Installation
 
